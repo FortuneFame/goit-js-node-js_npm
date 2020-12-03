@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-node-js_npm",
+  "version": "1.0.0",
+  "description": "Репозиторий для разбора Node.js и npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortuneFame/goit-js-node-js_npm.git"
+  },
+  "keywords": [],
+  "author": "Marchenko Yaroslava <fortunefame1710@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FortuneFame/goit-js-node-js_npm/issues"
+  },
+  "homepage": "https://github.com/FortuneFame/goit-js-node-js_npm#readme",
+  "dependencies": {
+    "lodash.throttle": "^4.1.1",
+    "validator": "^13.5.1"
+  }
+}
